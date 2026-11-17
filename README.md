@@ -6,9 +6,14 @@ Me interesa sobre todo el **desarrollo backend con Java**, y también el full st
 Antes de la programación trabajé en educación y en atención al cliente de comercio electrónico.
 De esa etapa me traigo la comunicación, la organización y el trato con usuarios.
 
-### Proyectos
+### Proyecto individual
 
-Todos son proyectos de equipo del ciclo. Indico qué parte hice yo.
+**[JobConnect · versión individual](https://github.com/cmigueldev99/jobconnect-producto2-carles)** · [🔗 Demo](https://cmigueldev99.github.io/jobconnect-producto2-carles/)  
+Plataforma de ofertas y demandas de empleo en JavaScript puro, sin frameworks: IndexedDB, localStorage, drag & drop y Canvas.
+
+### Proyectos de equipo
+
+Proyectos del ciclo. Indico qué parte hice yo.
 
 | Proyecto | Tecnologías | Mi parte |
 |---|---|---|
