@@ -1,19 +1,19 @@
-## Hola, soy Carles 👋
+## Hola, soy Carles Miguel 👋
 
-Estudiante en la fase final del **CFGS de Desarrollo de Aplicaciones Web** (Jesuïtes Educació – UOC), en Barcelona.
-Me interesa sobre todo el **desarrollo backend con Java**, y también el full stack.
+Desarrollador web en formación, en la fase final del **CFGS de Desarrollo de Aplicaciones Web** (Jesuïtes Educació – UOC), Barcelona.
+Especialmente interesado en el **desarrollo backend con Java**, y abierto al full stack.
 
-Antes de la programación trabajé en educación y en atención al cliente de comercio electrónico.
-De esa etapa me traigo la comunicación, la organización y el trato con usuarios.
+Llego a la programación después de trabajar en educación y en atención al cliente de comercio electrónico.
+De esa etapa me traigo la comunicación, la organización y el trato con las personas que usan lo que construyo.
 
-### Proyecto individual
+### 🚀 Proyecto individual
 
 **[JobConnect · versión individual](https://github.com/cmigueldev99/jobconnect-producto2-carles)** · [🔗 Demo](https://cmigueldev99.github.io/jobconnect-producto2-carles/)  
 Plataforma de ofertas y demandas de empleo en JavaScript puro, sin frameworks: IndexedDB, localStorage, drag & drop y Canvas.
 
-### Proyectos de equipo
+### 🛠️ Proyectos de equipo
 
-Proyectos del ciclo. Indico qué parte hice yo.
+Proyectos del ciclo formativo. En cada uno indico mi parte.
 
 | Proyecto | Tecnologías | Mi parte |
 |---|---|---|
@@ -23,10 +23,12 @@ Proyectos del ciclo. Indico qué parte hice yo.
 | [**App Angular de baloncesto**](https://github.com/EricKColl/FP.451-Producto2) | Angular, TypeScript, Reactive Forms, Firestore | Reproductor de vídeo personalizado; formulario reutilizable con validadores propios y tests |
 | [**CCOA.DB** · tienda online de escritorio](https://github.com/aojedam999/FP.447-CCOA.DB) | Java, JavaFX, JDBC, JPA/Hibernate, MySQL | Excepciones del modelo, tests JUnit y pantalla JavaFX con JPA |
 
-### Ahora mismo
+### 📚 Ahora mismo
+
 - Cursando backend con **Spring Boot** y frontend con **Angular y TypeScript**.
 - Reforzando fundamentos con el curso **Ultimate Java** (Academia Hola Mundo).
 - Buscando empresa para la **formación en prácticas**.
 
-### Contacto
+### 📫 Contacto
+
 [LinkedIn](https://www.linkedin.com/in/carles-miguel-mill%C3%A1n-317351220/)
