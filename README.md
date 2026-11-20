@@ -4,7 +4,7 @@ Desarrollador web en formación, en la fase final del **CFGS de Desarrollo de Ap
 Especialmente interesado en el **desarrollo backend con Java**, y abierto al full stack.
 
 Llego a la programación después de trabajar en educación y en atención al cliente de comercio electrónico.
-De esa etapa me traigo la comunicación, la organización y el trato con las personas que usan lo que construyo.
+De esa etapa me traigo la comunicación, la organización y algo que hoy aplico al código: entender la lógica de negocio antes de programarla.
 
 ### 🚀 Proyecto individual
 
@@ -26,7 +26,7 @@ Proyectos del ciclo formativo. En cada uno indico mi parte.
 ### 📚 Ahora mismo
 
 - Cursando backend con **Spring Boot** y frontend con **Angular y TypeScript**.
-- Reforzando fundamentos con el curso **Ultimate Java** (Academia Hola Mundo).
+- Reforzando fundamentos con los cursos de **Academia Hola Mundo**.
 - Buscando empresa para la **formación en prácticas**.
 
 ### 📫 Contacto
